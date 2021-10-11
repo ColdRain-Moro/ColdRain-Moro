@@ -7,6 +7,4 @@ object ColdRain : Freshman("CQUPT", "Software Engineering") {
     
 }
 ~~~
-
-
 ![ColdRain-Moro's github stats](https://github-readme-stats.vercel.app/api?username=ColdRain-Moro&show_icons=true&theme=radical)
