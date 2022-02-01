@@ -5,7 +5,7 @@
 - ~~A TouHou fan~~
 - A amateur Minecraft Backend-Plugin developer
 - Currently learning Android & Web-Frontend
-- Interested in Spring Boot & Golang Backend
+- Interested in Ktor & Jetpack Compose
 - Trying to become a full-stack developer
 - Welcome to my blog site: [ColdRain's Blog](https://blog.coldrain.ink)
 - My Email: rain@asgard.hk
