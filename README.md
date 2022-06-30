@@ -32,4 +32,4 @@
 
 ![ColdRain-Moro's github stats](https://github-readme-stats.vercel.app/api?username=ColdRain-Moro&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdRain-Moro&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdRain-Moro&layout=compact&hide=html)
