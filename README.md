@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rain
 
-**rookie dev of @RedrockTeam major in Android development, Software Engineering @CQUPT**
+**rookie dev of @RedrockTeam, majoring in Android development, Software Engineering @CQUPT**
 
 ## Tech Stack
 
