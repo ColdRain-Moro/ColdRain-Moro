@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rain
 
-**Student, SoftwareEngineering @ CQUPT**
+**rookie dev of @RedrockTeam major in Android development, Software Engineering @CQUPT**
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@
 ## Personality
 
 - Touhou lover🥰
-- A amateur Minecraft Backend-Plugin developer🧐
+- amateur Minecraft backend plugin developer🧐
 - Lazy🥱
 
 **Welocome to my blog site: [ColdRain's Blog](https://blog.coldrain.ink)**
@@ -32,4 +32,4 @@
 
 ![ColdRain-Moro's github stats](https://github-readme-stats.vercel.app/api?username=ColdRain-Moro&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdRain-Moro&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColdRain-Moro&layout=compact&hide=html,ejs)
