@@ -28,7 +28,7 @@
 
 **Welocome to my blog site: [ColdRain's Blog](https://blog.coldrain.ink)**
 
-**Or email me: rain@asgard.hk**
+**Or email me: rain@redrock.team**
 
 ![ColdRain-Moro's github stats](https://github-readme-stats.vercel.app/api?username=ColdRain-Moro&show_icons=true&theme=radical)
 
