@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rain
+# Hi there 👋, I'm ArcticRain
 
 **rookie dev of @RedrockTeam, majoring in Android development, Software Engineering @CQUPT**
 
