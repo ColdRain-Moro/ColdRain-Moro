@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **golang,deep learning**
 
-- 📝 I regularly write articles on [my blog](blog.coldrain.ink)
+- 📝 I regularly write articles on [my blog](https://blog.coldrain.ink)
 
 - 💬 Ask me about **android development**
 
