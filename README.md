@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coldrain-moro" alt="coldrain-moro" /></a> </p>
 
-- 🌱 I’m currently learning **golang, deep learning**
+- 🌱 I’m currently learning **rust, android framework**
 
 - 📝 I regularly write articles on [blog.coldrain.ink](blog.coldrain.ink)
 
