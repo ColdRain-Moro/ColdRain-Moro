@@ -17,7 +17,7 @@ jobs:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.G_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           BRANCH: "main"
           COMMIT_MSG: "new stats received"
           STATS_RANGE: last_30_days
