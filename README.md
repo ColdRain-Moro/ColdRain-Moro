@@ -26,8 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coldrain-moro&show_icons=true&locale=en" alt="coldrain-moro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coldrain-moro&" alt="coldrain-moro" /></p>
-
-<p><img
-  src="https://github.com/ColdRain-Moro/ColdRain-Moro/blob/main/images/stat.svg"
-  alt="WakaTime Stat"
-/></p>
