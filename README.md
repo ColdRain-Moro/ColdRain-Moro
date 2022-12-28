@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **rust, android framework**
 
-- 📝 I regularly write articles on [blog.coldrain.ink](blog.coldrain.ink)
+- 📝 I regularly write articles on [blog.coldrain.ink](https://blog.coldrain.ink)
 
 - 💬 Ask me about **android development**
 
