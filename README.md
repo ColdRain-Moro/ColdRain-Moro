@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
 ![](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/-Buukit-black?style=for-the-badge&logo=minecraft)
+![](https://img.shields.io/badge/-Bukkit-black?style=for-the-badge&logo=minecraft)
 
 ## Dev Environment
 
