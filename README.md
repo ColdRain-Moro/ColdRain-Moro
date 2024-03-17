@@ -2,9 +2,7 @@
 
 <img align='left' src='github-metrics.svg'>
 
-The name Hiyame combines "Hiya" meaning "cold" and "Ame" meaning "rain," signifying a cold rain,
-
-which is a more colloquial expression than "Samui" (chilly or cold).
+The name Hiyame combines "Hiya" meaning "cold" and "Ame" meaning "rain," signifying a cold rain.
 
 ## Status
 
